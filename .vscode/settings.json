@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "all",
+    "workbench.cloudChanges.autoResume": "off",
+    "breadcrumbs.filePath": "off",
+    "editor.acceptSuggestionOnEnter": "off",
+    "workbench.activityBar.iconClickBehavior": "focus"
+}
